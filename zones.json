@@ -1261,6 +1261,115 @@
       "zone": "Green"
     },
     {
+      "district": "Connaught Place",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+    {
+      "district": "Narela",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+    {
+      "district": "Kanjhawala",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+    {
+      "district": "Rajouri Garden",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+    {
+      "district": "Dwarka",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+    {
+      "district": "Saket",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+    {
+      "district": "Defence Colony",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+    {
+      "district": "Daryaganj",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+    {
+      "district": "Seelampur",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+    {
+      "district": "Preet Vihar",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+    {
+      "district": "Sadar Bazaar",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+    {
+      "district": "Palam",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+
+    {
       "district": "Central Delhi",
       "districtcode": "DL_Central Delhi",
       "lastupdated": "01/05/2020",
@@ -4249,6 +4358,15 @@
       "zone": "Orange"
     },
     {
+      "district": "Khurda",
+      "districtcode": "OR_Khordha",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Orange"
+    },
+    {
       "district": "Khordha",
       "districtcode": "OR_Khordha",
       "lastupdated": "01/05/2020",
@@ -4922,6 +5040,627 @@
       "state": "Sikkim",
       "statecode": "SK",
       "zone": "Green"
+    },
+    {
+      "district": "A Battery Lane",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Aditya Nagar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Ahmed Colony",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Alwal",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Amba Theater Road",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Ambedkar Nagar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Anjaiah Nagar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Aparna Hillpark Road",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Asif Nagar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Asmangadh",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Ayyappa Society",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Azeem Towers",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Aziz Bagh Colony",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Balaji Nagar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Bhagat Singh Nagar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Bhagat Singh Nagar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Adibatla",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Chaitanyapuri",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Balapur",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Maheshwaram",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Saroornagar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Vanasthalipuram",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Pahadhishareef",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Nacharam",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Malkajgiri",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Kanchanbagh",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Madannapet",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Rein Bazar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Mirchowk",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Dabeerpura",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Chendrayangutta",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Saifabad",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Nampally",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Ramgopalpet",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Chikkadpally",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Narayanaguda",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Nallakunta",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "OU",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Saidabad",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Chanderghat",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Begumpet",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Chilkalguda",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Tukaramgate",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Lalaguda",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Panjagutta",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "SR Nagar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Habeeb nagar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Langer House",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Humayun Nagar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Golconda",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Kulsumpura",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Asif Nagar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Tappachabutra",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Jubilee Hills",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Banjara Hills",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Jagadgirigutta",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Shamirpet",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Kukatpally",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Kphb",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Gachibowli",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Madhapur",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Miyapur",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Narsingi",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Raidurgam",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Rc Puram",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Chandanagar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Mailardevpally",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Nandigama",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    },
+    {
+      "district": "Rajendranagar",
+      "districtcode": "TG_Adilabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
     },
     {
       "district": "Adilabad",
