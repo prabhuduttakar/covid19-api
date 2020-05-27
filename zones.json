@@ -1279,6 +1279,24 @@
       "zone": "Red"
     },
     {
+      "district": "Noida",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+    {
+      "district": "Greater Noida",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+    {
       "district": "Kanjhawala",
       "districtcode": "DL_Central Delhi",
       "lastupdated": "01/05/2020",
@@ -1316,6 +1334,15 @@
     },
     {
       "district": "Defence Colony",
+      "districtcode": "DL_Central Delhi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
+    },
+    {
+      "district": "Daryaganj",
       "districtcode": "DL_Central Delhi",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
@@ -4205,6 +4232,15 @@
       "zone": "Orange"
     },
     {
+      "district": "Balāngīr",
+      "districtcode": "OR_Balangir",
+      "lastupdated": "03/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Orange"
+    },
+    {
       "district": "Balasore",
       "districtcode": "OR_Balasore",
       "lastupdated": "13/05/2020",
@@ -4250,6 +4286,15 @@
       "zone": "Green"
     },
     {
+      "district": "Baudh",
+      "districtcode": "OR_Baud",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Green"
+    },
+    {
       "district": "Boudh",
       "districtcode": "OR_Boudh",
       "lastupdated": "01/05/2020",
@@ -4266,6 +4311,42 @@
       "state": "Odisha",
       "statecode": "OR",
       "zone": "Green"
+    },
+    {
+      "district": "Baripāda",
+      "districtcode": "OR_Mayurbhanj",
+      "lastupdated": "07/05/2020",
+      "source": "Government Of Odisha, Health & Family Department",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Orange"
+    },
+    {
+      "district": "Baripada",
+      "districtcode": "OR_Mayurbhanj",
+      "lastupdated": "07/05/2020",
+      "source": "Government Of Odisha, Health & Family Department",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Orange"
+    },
+    {
+      "district": "Bhawānipatna",
+      "districtcode": "OR_Kalahandi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Orange"
+    },
+    {
+      "district": "Bhawanipatna",
+      "districtcode": "OR_Kalahandi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Orange"
     },
     {
       "district": "Cuttack",
@@ -4295,6 +4376,15 @@
       "zone": "Orange"
     },
     {
+      "district": "Dhenkānāl",
+      "districtcode": "OR_Dhenkanal",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Orange"
+    },
+    {
       "district": "Gajapati",
       "districtcode": "OR_Gajapati",
       "lastupdated": "01/05/2020",
@@ -4313,6 +4403,15 @@
       "zone": "Red"
     },
     {
+      "district": "Ganjām",
+      "districtcode": "OR_Ganjam",
+      "lastupdated": "13/05/2020",
+      "source": "https://statedashboard.odisha.gov.in/",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Red"
+    },
+    {
       "district": "Jagatsinghpur",
       "districtcode": "OR_Jagatsinghpur",
       "lastupdated": "07/05/2020",
@@ -4323,6 +4422,15 @@
     },
     {
       "district": "Jajpur",
+      "districtcode": "OR_Jajpur",
+      "lastupdated": "13/05/2020",
+      "source": "https://statedashboard.odisha.gov.in/",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Red"
+    },
+    {
+      "district": "Jājpur",
       "districtcode": "OR_Jajpur",
       "lastupdated": "13/05/2020",
       "source": "https://statedashboard.odisha.gov.in/",
@@ -4403,7 +4511,25 @@
       "zone": "Orange"
     },
     {
+      "district": "Korāput",
+      "districtcode": "OR_Koraput",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Orange"
+    },
+    {
       "district": "Malkangiri",
+      "districtcode": "OR_Malkangiri",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Green"
+    },
+    {
+      "district": "Malakanagiri",
       "districtcode": "OR_Malkangiri",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
@@ -4439,6 +4565,15 @@
       "zone": "Orange"
     },
     {
+      "district": "Nayāgarh",
+      "districtcode": "OR_Nayagarh",
+      "lastupdated": "09/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Orange"
+    },
+    {
       "district": "Nuapada",
       "districtcode": "OR_Nuapada",
       "lastupdated": "01/05/2020",
@@ -4457,6 +4592,15 @@
       "zone": "Green"
     },
     {
+      "district": "Phulbani",
+      "districtcode": "OR_Kandhamal",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Green"
+    },
+    {
       "district": "Rayagada",
       "districtcode": "OR_Rayagada",
       "lastupdated": "01/05/2020",
@@ -4464,6 +4608,24 @@
       "state": "Odisha",
       "statecode": "OR",
       "zone": "Green"
+    },
+    {
+      "district": "Rāyagada",
+      "districtcode": "OR_Rayagada",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Green"
+    },
+    {
+      "district": "Rourkela",
+      "districtcode": "OR_Rayagada",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Orange"
     },
     {
       "district": "Sambalpur",
@@ -4477,6 +4639,15 @@
     {
       "district": "Subarnapur",
       "districtcode": "OR_Subarnapur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Green"
+    },
+    {
+      "district": "Sonepur",
+      "districtcode": "OR_Sonepur",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Odisha",
@@ -5574,24 +5745,6 @@
     },
     {
       "district": "Kukatpally",
-      "districtcode": "TG_Adilabad",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Telangana",
-      "statecode": "TG",
-      "zone": "Red"
-    },
-    {
-      "district": "Kūkatpalli",
-      "districtcode": "TG_Adilabad",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Telangana",
-      "statecode": "TG",
-      "zone": "Red"
-    },
-    {
-      "district": "Kukatpalli",
       "districtcode": "TG_Adilabad",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
