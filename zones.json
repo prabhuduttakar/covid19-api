@@ -4220,6 +4220,30 @@
       "zone": "Red"
     },
     {
+      "district": "Tālcher",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Red"
+    },
+    {
+      "district": "Athmallik",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Red"
+    },
+    {
+      "district": "Durgapur",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Red"
+    },
+    {
+      "district": "Rengāli",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Red"
+    },
+    {
       "district": "Bānapur",
       "state": "Odisha",
       "statecode": "OR",
@@ -4520,6 +4544,12 @@
       "zone": "Orange"
     },
     {
+      "district": "Paradip",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Orange"
+    },
+    {
       "district": "Jajpur",
       "state": "Odisha",
       "statecode": "OR",
@@ -4653,6 +4683,48 @@
     },
     {
       "district": "Puri",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Green"
+    },
+    {
+      "district": "Brahmagiri",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Green"
+    },
+    {
+      "district": "Pipili",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Green"
+    },
+    {
+      "district": "Alipada",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Green"
+    },
+    {
+      "district": "Gop",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Green"
+    },
+    {
+      "district": "Konark",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Green"
+    },
+    {
+      "district": "Nimapada",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Green"
+    },
+    {
+      "district": "Pipili",
       "state": "Odisha",
       "statecode": "OR",
       "zone": "Green"
